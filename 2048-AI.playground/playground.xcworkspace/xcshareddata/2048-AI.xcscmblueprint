@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ADBB22A5367CB032A3612ED81D020AECF9351A2C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71CB3A1C02059CD208015F1A72AD731D87410A94" : 9223372036854775807,
+    "ADBB22A5367CB032A3612ED81D020AECF9351A2C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E404EE4C-5592-41F4-84C1-DE4900819C73",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71CB3A1C02059CD208015F1A72AD731D87410A94" : "",
+    "ADBB22A5367CB032A3612ED81D020AECF9351A2C" : "Swift-2048-AI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "2048-AI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "2048-AI.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hammadj\/WWDC-2017.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71CB3A1C02059CD208015F1A72AD731D87410A94"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hammadj\/Swift-2048-AI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADBB22A5367CB032A3612ED81D020AECF9351A2C"
+    }
+  ]
+}
